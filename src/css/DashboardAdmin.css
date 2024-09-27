@@ -1,0 +1,38 @@
+.admin_dashboard {
+    display: flex;
+    width: 100vw;
+    padding-left: 314px;
+    padding-top: 60px;
+  }
+  
+.dashboard_header{
+    display: flex;
+    
+    padding-left: 88px;
+    padding-top: 60px;
+
+    font: normal normal bold 33px/47px Open Sans, sans-serif;
+    letter-spacing: 0px;
+    color: #43425D;
+    opacity: 1;
+    
+}
+  
+.dashboard_center {
+    display: flex;
+    padding-top: 120px;
+}
+
+.dashboard_chart1{
+    width: 1200px;
+    height: 320px;
+    margin-left: 0px;
+    margin-top: 0px;
+    
+
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 20px #00000029;
+    border-radius: 15px;
+    opacity: 1;
+}
+
